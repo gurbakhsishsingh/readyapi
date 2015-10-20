@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="76f3ab3d-6ead-4d2a-a5d5-56038a16e9fe" wadlVersion="http://wadl.dev.java.net/2009/02" name="Novo" type="rest" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="76f3ab3d-6ead-4d2a-a5d5-56038a16e9fefileName">Novo</con:setting></con:settings><con:definitionCache type="TEXT" rootPart=""/><con:endpoints><con:endpoint>http://qa.kayako.com</con:endpoint></con:endpoints></con:interface>
