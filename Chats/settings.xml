@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="3f8115dd-8c45-41ae-83cf-5fc4e2e6a677" name="Chats" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="3f8115dd-8c45-41ae-83cf-5fc4e2e6a677fileName">Chats</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
