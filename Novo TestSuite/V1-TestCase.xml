@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="3dfdd8ac-305d-4cdb-a103-62de35fe822b" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="V1 TestCase" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:description>TestCase generated for REST Resource [V1] located at [/api/v1]</con:description><con:settings><con:setting id="3dfdd8ac-305d-4cdb-a103-62de35fe822bfileName">V1-TestCase</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>

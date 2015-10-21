@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="53b9d124-1164-4e2d-871a-fe6ab39a50d5" name="Novo TestSuite" xmlns:con="http://eviware.com/soapui/config"><con:description>TestSuite generated for REST Service [Novo]</con:description><con:settings><con:setting id="53b9d124-1164-4e2d-871a-fe6ab39a50d5fileName">Novo TestSuite</con:setting></con:settings><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>

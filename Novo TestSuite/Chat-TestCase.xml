@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="58376b0c-7e66-4019-b967-2150f478430f" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="Chat TestCase" searchProperties="true" xmlns:con="http://eviware.com/soapui/config"><con:description>TestCase generated for REST Resource [Chat] located at [/api/v1/chats]</con:description><con:settings><con:setting id="58376b0c-7e66-4019-b967-2150f478430ffileName">Chat-TestCase</con:setting></con:settings><con:properties/><con:reportParameters/></con:testCase>
