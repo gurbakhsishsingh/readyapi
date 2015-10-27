@@ -3,13 +3,3 @@ Availability-TestCase.xml
 Agent-Presence-TestCase.xml
 Set-Status-TestCase.xml
 Initiate-TestCase.xml
-Send-Invite-TestCase.xml
-Pending-Chats-TestCase.xml
-Join-TestCase.xml
-Active-TestCase.xml
-Observe-TestCase.xml
-Transfer-TestCase.xml
-Leave-TestCase.xml
-Retrieve-all-Chats-TestCase.xml
-Retrieve-a-Chat-TestCase.xml
-Update-name-and-email-TestCase.xml
