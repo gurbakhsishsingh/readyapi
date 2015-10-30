@@ -3,3 +3,4 @@ Availability-TestCase.xml
 Agent-Presence-TestCase.xml
 Set-Status-TestCase.xml
 Initiate-TestCase.xml
+Join-a-chat.xml
